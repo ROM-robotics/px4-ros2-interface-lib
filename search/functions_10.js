@@ -1,6 +1,6 @@
 var searchData=
 [
-  ['throttle_0',['throttle',['../classpx4__ros2_1_1ManualControlInput.html#ae00e8a8a0b226a0fb1e7644f8b38b5bc',1,'px4_ros2::ManualControlInput']]],
-  ['tomulticopter_1',['toMulticopter',['../classpx4__ros2_1_1VTOL.html#ade092cc12d5660e73b1e7f872883b405',1,'px4_ros2::VTOL']]],
-  ['trajectorysetpointtype_2',['TrajectorySetpointType',['../classpx4__ros2_1_1TrajectorySetpointType.html#a98113db5fcb74712bfe3b909cab554f8',1,'px4_ros2::TrajectorySetpointType']]]
+  ['update_0',['update',['../classpx4__ros2_1_1AttitudeSetpointType.html#a25fa251a0d840678570d6c9bc9e4a732',1,'px4_ros2::AttitudeSetpointType::update()'],['../classpx4__ros2_1_1GotoSetpointType.html#a2117abf2c58b3909776bef70338c42be',1,'px4_ros2::GotoSetpointType::update()'],['../classpx4__ros2_1_1GotoGlobalSetpointType.html#a58660328921ec4619eca8cf279a3a185',1,'px4_ros2::GotoGlobalSetpointType::update()'],['../classpx4__ros2_1_1GlobalPositionMeasurementInterface.html#a1a183b595ef7f6a22f3a83ba543fe86d',1,'px4_ros2::GlobalPositionMeasurementInterface::update()'],['../classpx4__ros2_1_1LocalPositionMeasurementInterface.html#a6fd180b944710716d418b2cfe1c0c8e3',1,'px4_ros2::LocalPositionMeasurementInterface::update()']]],
+  ['updatemotors_1',['updateMotors',['../classpx4__ros2_1_1DirectActuatorsSetpointType.html#a021774ee25cb884530284e4899edde90',1,'px4_ros2::DirectActuatorsSetpointType']]],
+  ['updateservos_2',['updateServos',['../classpx4__ros2_1_1DirectActuatorsSetpointType.html#a61a798f80721433dbafd15e629eea448',1,'px4_ros2::DirectActuatorsSetpointType']]]
 ];

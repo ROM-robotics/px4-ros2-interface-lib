@@ -1,8 +1,7 @@
 var searchData=
 [
-  ['pitch_0',['pitch',['../classpx4__ros2_1_1ManualControlInput.html#adcdf54f3694dc4f46e7767f8a89c9199',1,'px4_ros2::ManualControlInput::pitch()'],['../classpx4__ros2_1_1OdometryAttitude.html#aaa24ea71efa047ba1c94ac7d7f4de768',1,'px4_ros2::OdometryAttitude::pitch()']]],
-  ['position_1',['position',['../classpx4__ros2_1_1OdometryGlobalPosition.html#a7bf7ab1b9f1f2ed6a8a833277247fa21',1,'px4_ros2::OdometryGlobalPosition']]],
-  ['positionenutoned_2',['positionEnuToNed',['../group__frame__conversion.html#ga6da3ed476c8a5553b5242756a5a7478d',1,'px4_ros2']]],
-  ['positionnedtoenu_3',['positionNedToEnu',['../group__frame__conversion.html#ga6e0b0f30dd6984f48873f24ade5d0c38',1,'px4_ros2']]],
-  ['positionvalid_4',['positionValid',['../classpx4__ros2_1_1OdometryGlobalPosition.html#ae9f5c281e0a629e491ae4f03c5b5daba',1,'px4_ros2::OdometryGlobalPosition']]]
+  ['quaterniontoeulerrpy_0',['quaternionToEulerRpy',['../group__geometry.html#gac2f8c4e4922abb0cffd03e6fc746b5bf',1,'px4_ros2']]],
+  ['quaterniontopitch_1',['quaternionToPitch',['../group__geometry.html#gacb1a4e729a428bc56c848707aa495787',1,'px4_ros2']]],
+  ['quaterniontoroll_2',['quaternionToRoll',['../group__geometry.html#ga6c0d59b58bc60adcdb56e89dd429c9d2',1,'px4_ros2']]],
+  ['quaterniontoyaw_3',['quaternionToYaw',['../group__geometry.html#gaf7e7ea1089241e844747111128658328',1,'px4_ros2']]]
 ];

@@ -1,6 +1,5 @@
 var group__odometry =
 [
-    [ "px4_ros2::OdometryAirspeed", "classpx4__ros2_1_1OdometryAirspeed.html", null ],
     [ "px4_ros2::OdometryAngularVelocity", "classpx4__ros2_1_1OdometryAngularVelocity.html", [
       [ "angularVelocityFrd", "classpx4__ros2_1_1OdometryAngularVelocity.html#a25760647e0964b91a4ef4f1ca23a0c47", null ]
     ] ],
@@ -11,11 +10,9 @@ var group__odometry =
       [ "yaw", "classpx4__ros2_1_1OdometryAttitude.html#af6b73e4b56eb9b7582c0ecaa31596236", null ]
     ] ],
     [ "px4_ros2::OdometryGlobalPosition", "classpx4__ros2_1_1OdometryGlobalPosition.html", [
-      [ "position", "classpx4__ros2_1_1OdometryGlobalPosition.html#a7bf7ab1b9f1f2ed6a8a833277247fa21", null ],
-      [ "positionValid", "classpx4__ros2_1_1OdometryGlobalPosition.html#ae9f5c281e0a629e491ae4f03c5b5daba", null ]
+      [ "position", "classpx4__ros2_1_1OdometryGlobalPosition.html#a7bf7ab1b9f1f2ed6a8a833277247fa21", null ]
     ] ],
     [ "px4_ros2::OdometryLocalPosition", "classpx4__ros2_1_1OdometryLocalPosition.html", [
-      [ "OdometryLocalPosition", "classpx4__ros2_1_1OdometryLocalPosition.html#af05e8fd5845d7e7b34e209210e221ccc", null ],
       [ "heading", "classpx4__ros2_1_1OdometryLocalPosition.html#a50193dab84758c3f08e5a5b947fad5f8", null ]
     ] ],
     [ "px4_ros2::Subscription< RosMessageType >", "classpx4__ros2_1_1Subscription.html", [

@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['odometry_0',['Odometry',['../group__odometry.html',1,'']]]
+  ['setpoint_20types_0',['Setpoint Types',['../group__setpoint__types.html',1,'']]]
 ];

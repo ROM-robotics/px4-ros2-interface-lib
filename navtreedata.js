@@ -25,16 +25,13 @@
 var NAVTREE =
 [
   [ "PX4 ROS 2 Interface Library", "index.html", [
-    [ "Compatibility with PX4", "index.html#autotoc_md2", [
-      [ "Option 1: Match Messages", "index.html#autotoc_md3", null ],
-      [ "Option 2: Translate Messages", "index.html#autotoc_md4", null ]
-    ] ],
-    [ "Examples", "index.html#autotoc_md5", null ],
-    [ "Development", "index.html#autotoc_md6", [
-      [ "CI", "index.html#autotoc_md7", [
-        [ "clang-tidy", "index.html#autotoc_md8", null ],
-        [ "Unit tests", "index.html#autotoc_md9", null ],
-        [ "Linters (code formatting etc)", "index.html#autotoc_md10", null ]
+    [ "Compatibility with PX4", "index.html#autotoc_md1", null ],
+    [ "Examples", "index.html#autotoc_md2", null ],
+    [ "Development", "index.html#autotoc_md3", [
+      [ "CI", "index.html#autotoc_md4", [
+        [ "clang-tidy", "index.html#autotoc_md5", null ],
+        [ "Unit tests", "index.html#autotoc_md6", null ],
+        [ "Linters (code formatting etc)", "index.html#autotoc_md7", null ]
       ] ]
     ] ],
     [ "Topics", "topics.html", "topics" ],
@@ -58,8 +55,7 @@ var NAVTREE =
 
 var NAVTREEINDEX =
 [
-"airspeed_8hpp_source.html",
-"structpx4__ros2_1_1LocalPositionMeasurement.html#aaa49a96aac2b172e49c2036424422b6e"
+"angular__velocity_8hpp_source.html"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';
